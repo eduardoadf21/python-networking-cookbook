@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-
 import socket
 
 def print_machine_info():
